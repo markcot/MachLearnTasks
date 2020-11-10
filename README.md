@@ -19,9 +19,9 @@ When opening the **"Tasks.ipynb"** file, it is a good idea to use the command **
 
 The following tasks are included in the Jupyter Notebook
 
-* Task 1: Square Root Function
+* Task 1: Square root of 2 function
 
-* Task 2: TBA
+* Task 2: Verification of Chi-squared value
 
 * Task 3: TBA
 
