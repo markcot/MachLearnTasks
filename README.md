@@ -21,7 +21,7 @@ The following tasks are included in the Jupyter Notebook
 
 * Task 1: Square root of 2 function
 
-* Task 2: Verification of Chi-squared value
+* Task 2: Chi-squared test
 
 * Task 3: TBA
 
