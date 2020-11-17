@@ -39,4 +39,4 @@ The following tasks are included in the Jupyter Notebook
 
 [4] GitHub; GitHub Inc.; https://github.com/
 
-[5] Microsft; https://www.microsoft.com/en-us/
+[5] Microsoft; https://www.microsoft.com/en-us/
