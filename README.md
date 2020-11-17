@@ -21,9 +21,9 @@ The following tasks are included in the Jupyter Notebook
 
 * Task 1: Square root of 2 function
 
-* Task 2: Chi-squared test
+* Task 2: Chi-squared Test for Indendence
 
-* Task 3: TBA
+* Task 3: Microsoft [5] Excel methods for Standard Deviation
 
 * Task 4: TBA
 
@@ -38,3 +38,5 @@ The following tasks are included in the Jupyter Notebook
 [3] Anaconda; Anaconda Inc.; https://www.anaconda.com/
 
 [4] GitHub; GitHub Inc.; https://github.com/
+
+[5] Microsft; https://www.microsoft.com/en-us/
