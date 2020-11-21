@@ -23,7 +23,7 @@ The following tasks are included in the Jupyter Notebook
 
 * Task 2: Chi-squared Test for Indendence
 
-* Task 3: Microsoft [5] Excel methods for Standard Deviation
+* Task 3: Microsoft [5] Excel function for Standard Deviation
 
 * Task 4: TBA
 
