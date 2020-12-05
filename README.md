@@ -7,7 +7,7 @@ This is my README file for the GMIT module Machine Learning and Statistics.
 
 ***
 
-This project has been implemented in a Jupyter Notebook [1] using the Python programming language [1]. Jupyter Notebook comes as part of the part the Anaconda [3] distribution of Python. Jupyter software is also available from the Jupyter website [1].
+This project has been implemented in a Jupyter Notebook [1] using the Python programming language [2]. Jupyter Notebook comes as part of the part the Anaconda [3] distribution of Python. Jupyter software is also available from the Jupyter website [1].
 
 The Jupyer Notebook containing the assessment is called **"Tasks.ipynb"** and is included in this GitHub [4] repository. A local copy of this reposition can be downloaded to your PC noting the requirement of the license of use included in the repository.
 
@@ -25,7 +25,7 @@ The following tasks are included in the Jupyter Notebook
 
 * Task 3: Microsoft [5] Excel function for Standard Deviation
 
-* Task 4: TBA
+* Task 4: k-means clustering of Ronald Fisher’s [6] famous Iris flower data set
 
 ***
 
@@ -40,3 +40,5 @@ The following tasks are included in the Jupyter Notebook
 [4] GitHub; GitHub Inc.; https://github.com/
 
 [5] Microsoft; https://www.microsoft.com/en-us/
+
+[6] Ronald Fisher's; Wikipedia; https://en.wikipedia.org/wiki/Ronald_Fisher
