@@ -25,7 +25,7 @@ The following tasks are included in the Jupyter Notebook
 
 * Task 3: Microsoft [5] Excel function for Standard Deviation
 
-* Task 4: k-means clustering of Ronald Fisher’s [6] famous Iris flower data set
+* Task 4: k-means/k Nearest Neighbours clustering of Ronald Fisher’s [6] famous Iris flower data set
 
 ***
 
